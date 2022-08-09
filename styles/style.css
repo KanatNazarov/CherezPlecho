@@ -1,0 +1,543 @@
+/*.about{*/
+/*    border: 3px solid grey;*/
+/*    height: 36px;*/
+/*    width: 1090px;*/
+/*}*/
+
+
+/*.inform{*/
+/*    !*text-align: center;*!*/
+/*    height: 300px;*/
+/*    !*width: 1000px;*!*/
+/*    !*border-top: solid 2px grey;*!*/
+/*}*/
+
+
+/*.bottom img{*/
+/*    width: 70px;*/
+/*    height: 280px;*/
+/*}*/
+/*.bottom:hover{*/
+/*    fill: #F29828;*/
+/*}*/
+
+/*.man{*/
+/*    margin-right: 850px;*/
+/*    margin-left: 103px;*/
+/*    margin-top: 100px;*/
+/*    width: 150px;*/
+/*    height: 280px;*/
+/*}*/
+
+
+.bottom{
+    color: white;
+}
+
+
+/*.about h2{*/
+/*    transition-duration: .3s;*/
+/*}*/
+/*.about h2:hover{*/
+/*    color: white;*/
+
+/*}*/
+
+.naming{
+    transition-duration: .4s;
+}
+
+@media (max-width: 480px) {
+    .about{
+
+        margin-top: 1000px;
+    }
+    .about .naming{
+        margin-left: 16px;
+    }
+
+}
+
+@media (max-width: 1200px) {
+    .page1 .container{
+        margin-left: 30px   ;
+    }
+
+}
+
+
+h4{
+    font-size: 34px;
+}
+
+.pointer {
+    margin-left: 100px;
+    margin-top: -170px;
+    margin-bottom: 22px;
+}
+.about2{
+    transition-duration: .4s;
+    margin-left: -3px;
+    width: 130px;
+    display: flex;
+    /*justify-content: center;*/
+    align-items: center;
+}
+.On:hover{
+    transition-duration: .35s;
+    transform: scale(1.2);
+}
+.contacts:hover{
+    transition-duration: .35s;
+    transform: scale(1.2);
+}
+
+.about2 a{
+    color: #1F1F1F;
+    text-decoration: none;
+}
+
+.page2{
+    padding-top: 100px;
+}
+
+#onas{
+    width: 600px;
+    margin-top: 300px;
+}
+
+#onas h3{
+    font-size: 40px;
+}
+@media (max-width: 1253px) {
+    #onas{
+        margin-left: 40px;
+    }
+
+}
+
+.second{
+    margin-top: 50px;
+}
+
+.bonysu{
+    width: 500px;
+}
+.btn{
+    padding: 30px 30px 20px 20px;
+    border-radius: 30px;
+    margin-top: 300px;
+    width: 290px;
+    height: 100px;
+    background: white;
+    margin-left: 140px;
+}
+
+.btn:hover{
+    transition-duration: .3s;
+    transform: scale(1.2);
+}
+.page2 .container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bonysu h6{
+    font-size: 39px;
+}
+
+.podarok{
+    margin-top: 30px;
+    margin-left: 140px;
+    display: block;
+    justify-content: space-evenly;
+}
+
+.podarok img{
+    margin-right: 80px;
+}
+
+.products{
+    margin-top: 30px;
+    margin-bottom: -50px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #1F1F1F;
+}
+
+.products img{
+    margin-top: -80px;
+    margin-left: 250px;
+}
+.second{
+    margin-bottom: 10px;
+}
+
+.products h1:hover{
+    transition-duration: .3s;
+    transform: scale(1.1);
+}
+
+.one{
+    margin-top: 200px;
+    border: 3px solid grey;
+    border-radius: 30px;
+}
+
+.one1{
+    width: 300px;
+}
+.one2 {
+    /*margin-left: 80px;*/
+    width: 300px;
+}
+.one3 {
+    /*margin-left: 80px;*/
+    width: 300px;
+}
+.one4 {
+    /*margin-left: 80px;*/
+    width: 300px;
+}
+.one5{
+    /*margin-left: 80px;*/
+    width: 300px;
+}
+.one6{
+    /*margin-left: 80px;*/
+    width: 300px;
+}
+.page3 h6{
+    /*color: white;*/
+    font-size: 19px;
+}
+.one1:hover{
+    transform: scale(1.1);
+    transition-duration: .34s;
+}
+.one2:hover{
+    transform: scale(1.1);
+    transition-duration: .34s;
+}
+.one3:hover{
+    transform: scale(1.1);
+    transition-duration: .34s;
+}
+.one4:hover{
+    transform: scale(1.1);
+    transition-duration: .34s;
+}
+.one5:hover{
+    transform: scale(1.1);
+    transition-duration: .34s;
+}
+.one6:hover{
+    transform: scale(1.1);
+    transition-duration: .34s;
+}
+#product{
+    display: flex;
+    justify-content: space-evenly;
+}
+.product2{
+    margin-top: -80px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 150px;
+}
+.contacts{
+    margin-left: -130px;
+    margin-bottom: -100px;
+}
+
+.zakaz{
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    color: #1F1F1F;
+    text-decoration: none;
+    background: white;
+    width: 240px;
+    height: 70px;
+}
+
+.adress a{
+    margin-top: 50px;
+    color: white;
+}
+#footer{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+/*.adress{*/
+/*    margin-left: 100px;*/
+/*}*/
+
+.point{
+    margin-top: -250px;
+    margin-bottom: 200px;
+    margin-left: 1000px;
+}
+
+.point:hover{
+    transition-duration: .4s;
+    transform: scale(1.12);
+}
+
+/*.insta{*/
+/*    !*margin-top: 100px;*!*/
+/*    margin-top: -400px;*/
+/*    margin-left: 100px;*/
+/*}*/
+.insta:hover{
+    transition-duration: .3s;
+    transform: scale(1.14);
+}
+.what:hover{
+    transition-duration: .3s;
+    transform: scale(1.14);
+}
+
+/*.bottom .container{*/
+/*    height: 450px;*/
+/*}*/
+
+.social{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 90px;
+    height: 90px;
+    margin-left: 200px;
+    margin-top: -100px;
+}
+.telef:hover{
+    transition-duration: .32s;
+    opacity: 80%;
+}
+
+
+.money{
+    border-radius: 30px;
+    margin-top: 20px;
+    background: white;
+    width: 240px;
+    height: 50px;
+}
+
+@media (max-width: 1253px) {
+    .money{
+      margin-left: -100px;
+    }
+
+}
+
+
+
+/*
+*/
+
+.exchange{
+    margin-left: 800px;
+    margin-top: -300px;
+}
+.exchange input{
+    border-radius: 30px;
+    font-size: 16px;
+    padding: 20px 12px;
+    z-index: 1;
+    border: none;
+    height: 50px;
+}
+.us{
+    text-align: center;
+    padding-top: 13px;
+    font-size: 20px;
+    border-radius: 30px;
+    margin-left: 170px;
+    position: absolute;
+    margin-top: -50px;
+    background: #F29828;
+    height: 52px;
+    width: 80px;
+}
+/*#som:hover{*/
+/*    transform: scale(1.17);*/
+/*    transition-duration: .34s;*/
+/*}*/
+
+.money:hover{
+    transform: scale(1.17);
+    transition-duration: .34s;
+}
+
+.made{
+    color: grey;
+    margin-top: 120px;
+}
+
+.make{
+    color: grey;
+    /*margin-top: 120px;*/
+}
+
+
+@media (max-width: 470px) {
+    body{
+        width: 100%;
+    }
+    .about h1 {
+        margin-left: 20px;
+    }
+
+    .about h1 {
+        width: 330px;
+        margin-left: -19px;
+        font-size: 45px;
+        margin-top: -950px;
+
+    }
+    .aboutUs{
+        margin-top: -160px;
+        margin-left: -50px;
+        transform: scale(0.2);
+    }
+    .aboutUs:hover{
+
+        transform: scale(0.25);
+    }
+    .about2{
+        margin-top: 40px;
+    }
+    #onas .nazv{
+        width: 380px;
+        margin-top: -270px;
+        margin-left: -40px;
+        transform: scale(0.7);
+    }
+    #onas .second{
+        width: 380px;
+        margin-top: 10px;
+        margin-left: -40px;
+        transform: scale(0.7);
+    }
+    .products h1{
+        margin-top: 470px;
+        transform: scale(0.7);
+    }
+
+    .bonysu {
+        font-size: 50px;
+        width: 350px;
+        transform: scale(0.7);
+        margin-top: 450px;
+        margin-right: 900px;
+        margin-left: -450px;
+    }
+
+    #product {
+        margin-top: -100px;
+        margin-left: 50px;
+        display: inline-block;
+    }
+
+    .product2 {
+        flex-direction: column;
+        margin-left: 50px;
+
+        /*display: inline-block;*/
+
+    }
+    .upon{
+        margin-top: -50px;
+        margin-left: -760px;
+    }
+    .point{
+        margin-top: -5px;
+    }
+    .exchange{
+        margin-top: -200px;
+        margin-left: 130px ;
+    }
+    .made{
+        margin-top: 10px;
+        margin-left: -90px ;
+    }
+    .make{
+        margin-left: -90px ;
+    }
+    .bottom{
+        background: #1F1F1F;
+        height: 820px;
+    }
+    .price{
+                margin-left: -90px ;
+
+        color: grey;
+    }
+
+
+    .bonysu{
+        /*width: ;*/
+        /*margin-top: 100px;*/
+        margin-bottom: -900px;
+    }
+    .btn h6{
+        width: 300px;
+    transform: scale(0.85);
+    }
+    .products h1{
+        margin-left: -10px;
+        margin-bottom: -40px;
+    }
+    .products img{
+        transform: scale(0.8);
+        margin-bottom: -14px;
+        margin-left: 210px;
+    }
+    #footer{
+        margin-left: 30px;
+    }
+
+    .second{
+        margin-bottom: 30px;
+    }
+}
+ .price {
+     /*margin-left: 90px ;*/
+
+     color: grey;
+ }
+
+
+ .onas1{
+     margin-top: 20px;
+     border: #1F1F1F 2px solid;
+     /*transform: scale(1.1);*/
+     background: white;
+     border-radius: 20px;
+     padding-top: -20px;
+     margin-bottom: 30px;
+ }
+
+ .onas1:hover{
+     transition-duration: .3s;
+     transform: scale(1.03);
+ }
+
+ .nazv{
+     transform: scale(0.9);
+ }
+
+ .second{
+     transform: scale(0.9);
+ }
+
+ .podarok h6{
+     margin-top: 40px;
+ }
+
+
